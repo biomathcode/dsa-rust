@@ -6,3 +6,12 @@ pub mod length_of_last_word;
 pub mod sqrt;
 pub mod fibonaci;
 pub mod climb_stairs;
+pub mod max_area;
+pub mod trapping_rain_water;
+pub mod valid_sudoku;
+
+pub mod longest_consecutive_sequence_128;
+
+pub mod single_number;
+
+pub mod rotate;
