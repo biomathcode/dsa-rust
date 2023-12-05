@@ -24,3 +24,5 @@ pub mod valid_paranthesis;
 pub mod merge_alternatively;
 
 pub mod highest_altitude;
+
+pub mod max_profit;
