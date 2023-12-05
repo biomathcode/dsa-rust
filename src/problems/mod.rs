@@ -20,3 +20,7 @@ pub mod largest_three_digit_same_number;
 pub mod array_strings_are_equal;
 
 pub mod valid_paranthesis;
+
+pub mod merge_alternatively;
+
+pub mod highest_altitude;
