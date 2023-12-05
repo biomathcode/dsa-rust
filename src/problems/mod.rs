@@ -15,3 +15,8 @@ pub mod longest_consecutive_sequence_128;
 pub mod single_number;
 
 pub mod rotate;
+pub mod largest_three_digit_same_number;
+
+pub mod array_strings_are_equal;
+
+pub mod valid_paranthesis;
