@@ -1,7 +1,7 @@
 pub mod two_sum;
 pub mod group_anagrams;
 pub mod product_of_array_except_self;
-pub mod two_sum_II;
+pub mod two_sum_two;
 pub mod length_of_last_word;
 pub mod sqrt;
 pub mod fibonaci;
@@ -22,3 +22,6 @@ pub mod move_zeroes;
 pub mod largest_odd_number;
 pub mod total_money;
 pub mod sub_sequence;
+pub mod min_stack;
+pub mod find_pivot_index;
+pub mod queue_with_stack;

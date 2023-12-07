@@ -1,4 +1,6 @@
-struct MinStack {}
+struct MinStack {
+    stack: Vec<i32>,
+}
 
 /**
  * Your MinStack object will be instantiated and called as such:
@@ -16,13 +18,23 @@ struct MinStack {}
  * If you need a mutable reference, change it to `&mut self` instead.
  */
 impl MinStack {
-    fn new() -> Self {}
+    fn new() -> Self {
+        MinStack { stack: Vec::new() }
+    }
 
-    fn push(&self, val: i32) {}
+    fn push(&mut self, val: i32) {
+        self.stack.push(val)
+    }
 
-    fn pop(&self) {}
+    fn pop(&mut self) {
+        self.stack.pop().unwrap();
+    }
 
-    fn top(&self) -> i32 {}
+    fn top(&self) -> i32 {
+        self.stack.last().unwrap().to_owned()
+    }
 
-    fn get_min(&self) -> i32 {}
+    fn get_min(&self) -> i32 {
+        self.stack.iter().min().unwrap().to_owned()
+    }
 }
