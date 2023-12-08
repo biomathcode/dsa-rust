@@ -28,3 +28,5 @@ pub mod queue_with_stack;
 
 pub mod can_place_flowers;
 pub mod greatest_common_divisor_of_strings;
+pub mod roman_to_int;
+pub mod longest_common_prefix;

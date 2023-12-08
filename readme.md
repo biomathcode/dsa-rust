@@ -14,3 +14,5 @@ Competitive Programming patterns
 // You should know iterators quite value
 // Type conversions
 // While solving problem create variables names related to problem itself.
+
+
