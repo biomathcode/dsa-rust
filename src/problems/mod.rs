@@ -25,3 +25,6 @@ pub mod sub_sequence;
 pub mod min_stack;
 pub mod find_pivot_index;
 pub mod queue_with_stack;
+
+pub mod can_place_flowers;
+pub mod greatest_common_divisor_of_strings;

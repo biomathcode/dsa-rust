@@ -5,6 +5,8 @@ pub fn add(left: usize, right: usize) -> usize {
 pub mod problems;
 pub use problems::*;
 
+pub mod ds;
+pub use ds::*;
 
 #[cfg(test)]
 mod tests {
