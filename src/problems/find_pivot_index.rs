@@ -11,7 +11,18 @@ Return the lef tmost pivot index. If no such index exists, return -1.
 //TODO
 
 pub fn pivot_index(nums: Vec<i32>) -> i32 {
-    1
+    let total_sum = nums.iter().fold(0, |acc, x| x + acc);
+    let mut left_sum = 0;
+
+    for i in 0..nums.len() {
+        if total_sum - left_sum - nums[i] == left_sum {
+            return i as i32;
+        } else {
+            left_sum += nums[i];
+        }
+    }
+
+    return -1;
 }
 
 #[cfg(test)]

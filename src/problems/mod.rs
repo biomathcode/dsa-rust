@@ -30,3 +30,8 @@ pub mod can_place_flowers;
 pub mod greatest_common_divisor_of_strings;
 pub mod roman_to_int;
 pub mod longest_common_prefix;
+pub mod find_difference;
+pub mod unique_number_of_occurence;
+pub mod kids_with_candies;
+pub mod increasing_triplet;
+pub mod string_compression;
