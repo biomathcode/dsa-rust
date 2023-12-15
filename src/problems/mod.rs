@@ -35,3 +35,4 @@ pub mod unique_number_of_occurence;
 pub mod kids_with_candies;
 pub mod increasing_triplet;
 pub mod string_compression;
+pub mod max_operations;
