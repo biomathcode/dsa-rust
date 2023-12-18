@@ -63,3 +63,6 @@ Competitive Programming patterns
 // While solving problem create variables names related to problem itself.
 // For Finding frequency use hashmap
 // For Finding unique use hashset
+
+// Learn Pattern - through loops ( while, for)
+//  

@@ -36,3 +36,9 @@ pub mod kids_with_candies;
 pub mod increasing_triplet;
 pub mod string_compression;
 pub mod max_operations;
+pub mod find_max_average;
+
+pub mod max_vowels;
+pub mod max_consecutive_ones_three;
+pub mod longest_subarray_1493;
+pub mod min_flips_bit_manipulation_1318;
