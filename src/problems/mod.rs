@@ -42,3 +42,6 @@ pub mod max_vowels;
 pub mod max_consecutive_ones_three;
 pub mod longest_subarray_1493;
 pub mod min_flips_bit_manipulation_1318;
+
+// Stack
+pub mod remove_stars_2390;
