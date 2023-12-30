@@ -24,7 +24,6 @@ pub mod total_money;
 pub mod sub_sequence;
 pub mod min_stack;
 pub mod find_pivot_index;
-pub mod queue_with_stack;
 
 pub mod can_place_flowers;
 pub mod greatest_common_divisor_of_strings;
@@ -45,3 +44,18 @@ pub mod min_flips_bit_manipulation_1318;
 
 // Stack
 pub mod remove_stars_2390;
+
+// Monotronic Stack
+pub mod daily_warmer_temperature;
+pub mod online_stock_span;
+
+//trie
+pub mod trie;
+
+//Queue
+pub mod queue_with_stack;
+pub mod dota2_senate;
+
+// Linked_list
+pub mod delete_middle_number_listed_list;
+pub mod odd_even_listed_list;

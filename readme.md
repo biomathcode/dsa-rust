@@ -66,3 +66,9 @@ Competitive Programming patterns
 
 // Learn Pattern - through loops ( while, for)
 //  
+
+### Rust Books :
+
+1. Rust Design patterns: [book](https://rust-unofficial.github.io/patterns/)
+2. Pattern matching from the rust Book: [book](https://doc.rust-lang.org/book/ch18-01-all-the-places-for-patterns.html)
+3. Pattern Syntax : [book](https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html)
