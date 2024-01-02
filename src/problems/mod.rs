@@ -71,4 +71,11 @@ pub mod min_cost_climbing_stairs;
 // Backtracking
 pub mod simple_backtracking;
 pub mod phone_number_letter_combinations;
+pub mod combination_sum3;
 
+// Binary Tree - DFS
+pub mod leaf_similar;
+
+// Binary Search Tree
+pub mod delete_node_bst;
+pub mod bst;
