@@ -46,6 +46,4 @@ impl<T> LinkedList<T> {
 
         self.head = prev;
     }
-
-    
 }

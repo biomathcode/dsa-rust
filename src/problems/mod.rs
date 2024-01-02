@@ -59,3 +59,16 @@ pub mod dota2_senate;
 // Linked_list
 pub mod delete_middle_number_listed_list;
 pub mod odd_even_listed_list;
+pub mod twin_sum_linkedin_list;
+pub mod reverse_linked_list;
+
+// DP-1Dimension
+pub mod nth_tribonacci_number;
+pub mod min_cost_climbing_stairs;
+
+// Non-overlapping Intervals
+
+// Backtracking
+pub mod simple_backtracking;
+pub mod phone_number_letter_combinations;
+
