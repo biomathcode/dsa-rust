@@ -76,6 +76,17 @@ pub mod combination_sum3;
 // Binary Tree - DFS
 pub mod leaf_similar;
 
+// Binary Tree - BFS
+
+pub mod right_side_view;
+
 // Binary Search Tree
 pub mod delete_node_bst;
 pub mod bst;
+
+// daily leet code
+pub mod min_operations;
+
+//intervals
+pub mod find_min_arrow_shots;
+pub mod erase_overlap_intervals;
